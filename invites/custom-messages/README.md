@@ -1,7 +1,7 @@
 ---
 description: You can customise the join and leave messages with a number of parameters.
 ---
-
+(Jump to [placeholders](#placeholders)
 # Custom Messages
 
 You can set a custom join or leave message by setting the config:
